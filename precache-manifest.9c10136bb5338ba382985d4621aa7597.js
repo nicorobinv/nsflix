@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4e9792c7b4e6dc7598677ef6d10f51e",
+    "revision": "50ffb5538e7195014d6369dc5aa5bb5d",
     "url": "/nsflix/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nsflix/static/js/2.ea8c1932.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a8f53214791de40dabc0",
-    "url": "/nsflix/static/js/main.a7580d8e.chunk.js"
+    "revision": "e92068f5f2b2cd4fd558",
+    "url": "/nsflix/static/js/main.276ef008.chunk.js"
   },
   {
     "revision": "e2a089323dc48129b230",

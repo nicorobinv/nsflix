@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/nsflix/static/js/main.a7580d8e.chunk.js",
-    "main.js.map": "/nsflix/static/js/main.a7580d8e.chunk.js.map",
+    "main.js": "/nsflix/static/js/main.276ef008.chunk.js",
+    "main.js.map": "/nsflix/static/js/main.276ef008.chunk.js.map",
     "runtime-main.js": "/nsflix/static/js/runtime-main.3ac33eca.js",
     "runtime-main.js.map": "/nsflix/static/js/runtime-main.3ac33eca.js.map",
     "static/js/2.ea8c1932.chunk.js": "/nsflix/static/js/2.ea8c1932.chunk.js",
     "static/js/2.ea8c1932.chunk.js.map": "/nsflix/static/js/2.ea8c1932.chunk.js.map",
     "index.html": "/nsflix/index.html",
-    "precache-manifest.84a9bbe9630b1d24b11d6ab8a952f27e.js": "/nsflix/precache-manifest.84a9bbe9630b1d24b11d6ab8a952f27e.js",
+    "precache-manifest.9c10136bb5338ba382985d4621aa7597.js": "/nsflix/precache-manifest.9c10136bb5338ba382985d4621aa7597.js",
     "service-worker.js": "/nsflix/service-worker.js",
     "static/js/2.ea8c1932.chunk.js.LICENSE.txt": "/nsflix/static/js/2.ea8c1932.chunk.js.LICENSE.txt",
     "static/media/noPosterSmall.png": "/nsflix/static/media/noPosterSmall.b6d9e2c3.png"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.3ac33eca.js",
     "static/js/2.ea8c1932.chunk.js",
-    "static/js/main.a7580d8e.chunk.js"
+    "static/js/main.276ef008.chunk.js"
   ]
 }
